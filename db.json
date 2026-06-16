@@ -1,0 +1,453 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "sku": "CONF-TSHIRT-001",
+      "master": "",
+      "name": "T-shirt Performance Uomo",
+      "price": 29.9,
+      "promo_price": 24.9,
+      "qty": 0,
+      "status": 1,
+      "categories": "Abbigliamento|T-shirt",
+      "brand": "Sportiva",
+      "color": "",
+      "size": ""
+    },
+    {
+      "id": 2,
+      "sku": "TSHIRT-RED-S",
+      "master": "CONF-TSHIRT-001",
+      "name": "T-shirt Performance Uomo Rossa S",
+      "price": 29.9,
+      "promo_price": 24.9,
+      "qty": 12,
+      "status": 1,
+      "categories": "Abbigliamento|T-shirt",
+      "brand": "Sportiva",
+      "color": "Red",
+      "size": "S"
+    },
+    {
+      "id": 3,
+      "sku": "TSHIRT-RED-M",
+      "master": "CONF-TSHIRT-001",
+      "name": "T-shirt Performance Uomo Rossa M",
+      "price": 29.9,
+      "promo_price": 24.9,
+      "qty": 8,
+      "status": 1,
+      "categories": "Abbigliamento|T-shirt",
+      "brand": "Sportiva",
+      "color": "Red",
+      "size": "M"
+    },
+    {
+      "id": 4,
+      "sku": "TSHIRT-BLU-S",
+      "master": "CONF-TSHIRT-001",
+      "name": "T-shirt Performance Uomo Blu S",
+      "price": 29.9,
+      "promo_price": null,
+      "qty": 5,
+      "status": 1,
+      "categories": "Abbigliamento|T-shirt",
+      "brand": "Sportiva",
+      "color": "Blue",
+      "size": "S"
+    },
+    {
+      "id": 5,
+      "sku": "TSHIRT-BLU-M",
+      "master": "CONF-TSHIRT-001",
+      "name": "T-shirt Performance Uomo Blu M",
+      "price": 29.9,
+      "promo_price": null,
+      "qty": 0,
+      "status": 0,
+      "categories": "Abbigliamento|T-shirt",
+      "brand": "Sportiva",
+      "color": "Blue",
+      "size": "M"
+    },
+    {
+      "id": 6,
+      "sku": "CONF-SHOES-001",
+      "master": "",
+      "name": "Sneaker Running Pro",
+      "price": 89.9,
+      "promo_price": 79.9,
+      "qty": 0,
+      "status": 1,
+      "categories": "Scarpe|Running",
+      "brand": "RunFast",
+      "color": "",
+      "size": ""
+    },
+    {
+      "id": 7,
+      "sku": "SHOES-BLK-40",
+      "master": "CONF-SHOES-001",
+      "name": "Sneaker Running Pro Nero 40",
+      "price": 89.9,
+      "promo_price": 79.9,
+      "qty": 4,
+      "status": 1,
+      "categories": "Scarpe|Running",
+      "brand": "RunFast",
+      "color": "Black",
+      "size": "40"
+    },
+    {
+      "id": 8,
+      "sku": "SHOES-BLK-41",
+      "master": "CONF-SHOES-001",
+      "name": "Sneaker Running Pro Nero 41",
+      "price": 89.9,
+      "promo_price": 79.9,
+      "qty": 7,
+      "status": 1,
+      "categories": "Scarpe|Running",
+      "brand": "RunFast",
+      "color": "Black",
+      "size": "41"
+    },
+    {
+      "id": 9,
+      "sku": "SHOES-WHT-40",
+      "master": "CONF-SHOES-001",
+      "name": "Sneaker Running Pro Bianco 40",
+      "price": 89.9,
+      "promo_price": null,
+      "qty": 3,
+      "status": 1,
+      "categories": "Scarpe|Running",
+      "brand": "RunFast",
+      "color": "White",
+      "size": "40"
+    },
+    {
+      "id": 10,
+      "sku": "SHOES-WHT-41",
+      "master": "CONF-SHOES-001",
+      "name": "Sneaker Running Pro Bianco 41",
+      "price": 89.9,
+      "promo_price": null,
+      "qty": 6,
+      "status": 1,
+      "categories": "Scarpe|Running",
+      "brand": "RunFast",
+      "color": "White",
+      "size": "41"
+    },
+    {
+      "id": 11,
+      "sku": "BELT-LEATHER-001",
+      "master": "",
+      "name": "Cintura in pelle",
+      "price": 39.5,
+      "promo_price": null,
+      "qty": 15,
+      "status": 1,
+      "categories": "Accessori|Cinture",
+      "brand": "UrbanStyle",
+      "color": "Brown",
+      "size": "100"
+    },
+    {
+      "id": 12,
+      "sku": "MUG-LOGO-001",
+      "master": "",
+      "name": "Tazza con logo",
+      "price": 9.9,
+      "promo_price": 7.9,
+      "qty": 30,
+      "status": 1,
+      "categories": "Gadget|Casa",
+      "brand": "MerchLab",
+      "color": "White",
+      "size": "UNI"
+    },
+    {
+      "id": 13,
+      "sku": "BACKPACK-CITY-001",
+      "master": "",
+      "name": "Zaino City 20L",
+      "price": 49.9,
+      "promo_price": 44.9,
+      "qty": 11,
+      "status": 1,
+      "categories": "Accessori|Zaini",
+      "brand": "UrbanStyle",
+      "color": "Black",
+      "size": "20L"
+    },
+    {
+      "id": 14,
+      "sku": "CAP-COTTON-001",
+      "master": "",
+      "name": "Cappellino cotone",
+      "price": 14.9,
+      "promo_price": null,
+      "qty": 22,
+      "status": 1,
+      "categories": "Abbigliamento|Cappelli",
+      "brand": "Sportiva",
+      "color": "Navy",
+      "size": "UNI"
+    },
+    {
+      "id": 15,
+      "sku": "ERR-PRICE-001",
+      "master": "",
+      "name": "Prodotto con prezzo errato",
+      "price": "not_a_number",
+      "promo_price": null,
+      "qty": 10,
+      "status": 1,
+      "categories": "Test|Errori",
+      "brand": "BugBrand",
+      "color": "Red",
+      "size": "UNI"
+    },
+    {
+      "id": 16,
+      "sku": "ERR-NEGQTY-001",
+      "master": "",
+      "name": "Prodotto con quantità negativa",
+      "price": 19.9,
+      "promo_price": null,
+      "qty": -3,
+      "status": 1,
+      "categories": "Test|Errori",
+      "brand": "BugBrand",
+      "color": "Black",
+      "size": "UNI"
+    },
+    {
+      "id": 17,
+      "sku": "CONF-HOODIE-001",
+      "master": "",
+      "name": "Felpa College",
+      "price": 59.9,
+      "promo_price": 54.9,
+      "qty": 0,
+      "status": 1,
+      "categories": "Abbigliamento|Felpe",
+      "brand": "Sportiva",
+      "color": "",
+      "size": ""
+    },
+    {
+      "id": 18,
+      "sku": "HOODIE-GRY-S",
+      "master": "CONF-HOODIE-001",
+      "name": "Felpa College Grigia S",
+      "price": 59.9,
+      "promo_price": 54.9,
+      "qty": 9,
+      "status": 1,
+      "categories": "Abbigliamento|Felpe",
+      "brand": "Sportiva",
+      "color": "Grey",
+      "size": "S"
+    },
+    {
+      "id": 19,
+      "sku": "HOODIE-MISSING-SIZE",
+      "master": "CONF-HOODIE-001",
+      "name": "Felpa College senza taglia",
+      "price": 59.9,
+      "promo_price": 54.9,
+      "qty": 5,
+      "status": 1,
+      "categories": "Abbigliamento|Felpe",
+      "brand": "Sportiva",
+      "color": "Grey",
+      "size": ""
+    },
+    {
+      "id": 20,
+      "sku": "ERR-NONAME-001",
+      "master": "",
+      "name": "",
+      "price": 12.9,
+      "promo_price": null,
+      "qty": 4,
+      "status": 1,
+      "categories": "Test|Errori",
+      "brand": "BugBrand",
+      "color": "Green",
+      "size": "UNI"
+    }
+  ],
+  "images": [
+    {
+      "id": 1,
+      "sku": "CONF-TSHIRT-001",
+      "url": "https://placehold.co/800x800/png?text=CONF+TSHIRT+001"
+    },
+    {
+      "id": 2,
+      "sku": "TSHIRT-RED-S",
+      "url": "https://placehold.co/800x800/png?text=TSHIRT+RED+S"
+    },
+    {
+      "id": 3,
+      "sku": "TSHIRT-RED-M",
+      "url": "https://placehold.co/800x800/png?text=TSHIRT+RED+M"
+    },
+    {
+      "id": 4,
+      "sku": "TSHIRT-BLU-S",
+      "url": "https://placehold.co/800x800/png?text=TSHIRT+BLU+S"
+    },
+    {
+      "id": 5,
+      "sku": "TSHIRT-BLU-M",
+      "url": "https://placehold.co/800x800/png?text=TSHIRT+BLU+M"
+    },
+    {
+      "id": 6,
+      "sku": "CONF-SHOES-001",
+      "url": "https://placehold.co/800x800/png?text=CONF+SHOES+001"
+    },
+    {
+      "id": 7,
+      "sku": "SHOES-BLK-40",
+      "url": "https://placehold.co/800x800/png?text=SHOES+BLK+40"
+    },
+    {
+      "id": 8,
+      "sku": "SHOES-BLK-41",
+      "url": "https://placehold.co/800x800/png?text=SHOES+BLK+41"
+    },
+    {
+      "id": 9,
+      "sku": "SHOES-WHT-40",
+      "url": "https://placehold.co/800x800/png?text=SHOES+WHT+40"
+    },
+    {
+      "id": 10,
+      "sku": "SHOES-WHT-41",
+      "url": "https://placehold.co/800x800/png?text=SHOES+WHT+41"
+    },
+    {
+      "id": 11,
+      "sku": "BELT-LEATHER-001",
+      "url": "https://placehold.co/800x800/png?text=BELT+LEATHER+001"
+    },
+    {
+      "id": 12,
+      "sku": "MUG-LOGO-001",
+      "url": "https://placehold.co/800x800/png?text=MUG+LOGO+001"
+    },
+    {
+      "id": 13,
+      "sku": "BACKPACK-CITY-001",
+      "url": "https://placehold.co/800x800/png?text=BACKPACK+CITY+001"
+    },
+    {
+      "id": 14,
+      "sku": "CAP-COTTON-001",
+      "url": "https://placehold.co/800x800/png?text=CAP+COTTON+001"
+    },
+    {
+      "id": 15,
+      "sku": "ERR-PRICE-001",
+      "url": "https://placehold.co/800x800/png?text=ERR+PRICE+001"
+    },
+    {
+      "id": 16,
+      "sku": "ERR-NEGQTY-001",
+      "url": "https://placehold.co/800x800/png?text=ERR+NEGQTY+001"
+    },
+    {
+      "id": 17,
+      "sku": "SKU-NOT-IN-PRODUCTS",
+      "url": "https://placehold.co/800x800/png?text=Missing+SKU"
+    },
+    {
+      "id": 18,
+      "sku": "MUG-LOGO-001",
+      "url": "https://example.invalid/image-not-found.jpg"
+    }
+  ],
+  "stocks": [
+    {
+      "id": 1,
+      "sku": "TSHIRT-RED-S",
+      "qty": 12
+    },
+    {
+      "id": 2,
+      "sku": "TSHIRT-RED-M",
+      "qty": 8
+    },
+    {
+      "id": 3,
+      "sku": "TSHIRT-BLU-S",
+      "qty": 5
+    },
+    {
+      "id": 4,
+      "sku": "TSHIRT-BLU-M",
+      "qty": 0
+    },
+    {
+      "id": 5,
+      "sku": "SHOES-BLK-40",
+      "qty": 4
+    },
+    {
+      "id": 6,
+      "sku": "SHOES-BLK-41",
+      "qty": 7
+    },
+    {
+      "id": 7,
+      "sku": "SHOES-WHT-40",
+      "qty": 3
+    },
+    {
+      "id": 8,
+      "sku": "SHOES-WHT-41",
+      "qty": 6
+    },
+    {
+      "id": 9,
+      "sku": "BELT-LEATHER-001",
+      "qty": 15
+    },
+    {
+      "id": 10,
+      "sku": "MUG-LOGO-001",
+      "qty": 30
+    },
+    {
+      "id": 11,
+      "sku": "BACKPACK-CITY-001",
+      "qty": 11
+    },
+    {
+      "id": 12,
+      "sku": "CAP-COTTON-001",
+      "qty": 22
+    },
+    {
+      "id": 13,
+      "sku": "HOODIE-GRY-S",
+      "qty": 9
+    },
+    {
+      "id": 14,
+      "sku": "SKU-NOT-IN-PRODUCTS",
+      "qty": 12
+    },
+    {
+      "id": 15,
+      "sku": "TSHIRT-RED-S",
+      "qty": -5
+    }
+  ]
+}
